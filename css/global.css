@@ -1,0 +1,88 @@
+body{
+    margin: 0px;
+    padding: 0px;
+ }
+
+ .bg-black{
+     background-color: black;
+ }
+
+ .bg-navy{
+     background-color: #14213D;
+ }
+
+ .bg-accent{
+     background-color: #FCA311;
+ }
+
+ .bg-lightGray{
+     background-color: #E5E5E5;
+ }
+
+ .txt-black{
+     color: black;
+ }
+
+ .txt-red{
+     color: #AE2D28;
+ }
+
+ .txt-navy{
+     color: #14213D;
+ }
+
+ .txt-accent{
+     color: #AE2D28;
+ }
+
+ .txt-accent a{
+     color:#AE2D28;
+ }
+
+ .txt-accent a:hover{
+     color: #E5E5E5;
+ }
+
+ .txt-lightGray{
+     color: #E5E5E5;
+ }
+
+ .ps-light{
+     background-color: white;
+     /* height: 500px; */
+     width: 100%
+ }
+
+ .ps-grey{
+     background-color: #E5E5E5;
+     /* height: 500px; */
+     width: 100%
+ }
+
+ .parallax{
+    background-image: url("https://image.freepik.com/free-photo/tall-flame-fire_23-2147763621.jpg");
+    height: 350px;
+    background-attachment: fixed;   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ .extra{
+    height: 200px
+ }
+
+ .sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;  
+}
+
+.parallax2{
+    background-image: url("https://www.godisinthetvzine.co.uk/wp-content/uploads/2020/06/IMG_20200602_120716_501.jpg");
+    height: 75px;
+    background-attachment: fixed;   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
